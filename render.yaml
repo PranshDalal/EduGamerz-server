@@ -1,4 +1,5 @@
 version: 1
+pythonVersion: 3.7
 buildCommand: "python -m pip install -r requirements.txt"
 startCommand: "python server.py"
 root: "."
