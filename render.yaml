@@ -1,0 +1,3 @@
+version: 1
+buildCommand: "python -m pip install -r requirements.txt"
+startCommand: "python app.py"
